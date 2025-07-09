@@ -29,8 +29,8 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-<h3>📊 My GitHub Contributions Summary</h3>
+[<h3>📊 My GitHub Contributions Summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=KendallCW&theme=dark&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendallCW&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendallCW&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)](https://github.com/anuraghazra/github-readme-stats)
