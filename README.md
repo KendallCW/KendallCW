@@ -32,7 +32,8 @@
 </p>
 
 <h3>📊 My GitHub Contributions Summary</h3>
-<!-- GitHub Streak Stats (stable version) -->
+
+<!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=KendallCW&theme=dark&hide_border=true&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362)](https://git.io/streak-stats)
 
 <!-- GitHub Readme Stats -->
