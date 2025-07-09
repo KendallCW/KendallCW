@@ -3,7 +3,7 @@
 ---
 
 <!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=KendallCW&label=Profile+views&color=E9544F&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=KendallCW&label=Profile+views&color=red&style=for-the-badge)
 
 <!-- shields.io customization -->
 <h3>🧰 Tools I'm mastering on my path to Data Engineering</h3>
@@ -32,9 +32,8 @@
 </p>
 
 <h3>📊 My GitHub Contributions Summary</h3>
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=KendallCW&theme=dark&hide_border=true&ring=E9544F&fire=E9544F&currStreakNum=E9544F&currStreakLabel=E9544F)](https://git.io/streak-stats)
+<!-- GitHub Streak Stats (stable version) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=KendallCW&theme=dark&hide_border=true&ring=fb4362&fire=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362)](https://git.io/streak-stats)
 
 <!-- GitHub Readme Stats -->
-![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendallCW&hide_border=true&show_icons=true&bg_color=151515&title_color=E9544F&icon_color=E9544F&text_color=A9D6F3)
+![Kendall's GitHub stats](https://github-readme-stats.vercel.app/api?username=KendallCW&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
