@@ -37,7 +37,7 @@
 <!-- TODO Kendall: replace each "#" above with your real Microsoft Learn "share credential" link
      (format: https://learn.microsoft.com/api/credentials/share/en-us/[name]/[code])
      so each row proves the certification instead of just naming it. -->
-
+     
 ---
 
 ### 🧰 Stack
@@ -45,7 +45,7 @@
 **Cloud & Data Platform**
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-1F6FEB?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Synapse" src="https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
@@ -53,13 +53,13 @@
 **BI & Modeling**
 <p>
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="DAX" src="https://img.shields.io/badge/DAX-FF6C37?style=flat-square&logoColor=white" />
+  <img alt="DAX" src="https://img.shields.io/badge/DAX-FF6C37?style=flat-square" />
 </p>
 
 **Languages & Processing**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 </p>
 
@@ -96,4 +96,4 @@
 
 ### 📫 Let's connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
+[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:kcastro74@outlook.com)
