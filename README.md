@@ -43,35 +43,35 @@
 
 **Cloud & Data Platform**
 <p>
-  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img alt="Synapse" src="https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square" />
+  <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square" />
+  <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square" />
+  <img alt="Synapse" src="https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square" />
 </p>
 
 **BI & Modeling**
 <p>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" />
   <img alt="DAX" src="https://img.shields.io/badge/DAX-FF6C37?style=flat-square" />
 </p>
 
 **Languages & Processing**
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
 </p>
 
 **AI / GenAI**
 <p>
-  <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square" />
 </p>
 
 **Tooling**
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
 </p>
 
 ---
