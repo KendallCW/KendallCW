@@ -24,20 +24,19 @@
 
 ### 📜 Certifications
 
-| Certification | Status | Verify |
-|---|---|---|
-| [DP-700 — Fabric Data Engineer Associate](https://learn.microsoft.com/credentials/certifications/fabric-data-engineer-associate/) | ✅ Certified | [🔗 credential](#) |
-| [AZ-305 — Azure Solutions Architect Expert](https://learn.microsoft.com/credentials/certifications/azure-solutions-architect/) | ✅ Certified | [🔗 credential](#) |
-| [PL-300 — Power BI Data Analyst Associate](https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/) | ✅ Certified | [🔗 credential](#) |
-| [DB-900 — Azure Data Fundamentals](https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals/) | ✅ Certified | [🔗 credential](#) |
-| [AZ-900 — Azure Fundamentals](https://learn.microsoft.com/credentials/certifications/azure-fundamentals/) | ✅ Certified | [🔗 credential](#) |
-| [AZ-104 — Azure Administrator Associate](https://learn.microsoft.com/credentials/certifications/azure-administrator/) | 🔄 In progress | — |
-| [DP-600 — Fabric Analytics Engineer Associate](https://learn.microsoft.com/credentials/certifications/fabric-analytics-engineer-associate/) | 🔄 In progress | — |
+| Certification | Status |
+|---|---|
+| DP-700 — Fabric Data Engineer Associate | [✅ Verified](https://learn.microsoft.com/api/credentials/share/es-es/KendallCastroWilson-9809/C3A452AD3F7CE29D?sharingId=63448C838A62328B) |
+| AZ-305 — Azure Solutions Architect Expert | ✅ Certified *(verification link pending)* |
+| PL-300 — Power BI Data Analyst Associate | [✅ Verified](https://learn.microsoft.com/api/credentials/share/es-es/KendallCastroWilson-9809/450F5E6D6065A036?sharingId=63448C838A62328B) |
+| DB-900 — Azure Data Fundamentals | [✅ Verified](https://learn.microsoft.com/api/credentials/share/es-es/KendallCastroWilson-9809/561E698E540E5344?sharingId=63448C838A62328B) |
+| AZ-900 — Azure Fundamentals | [✅ Verified](https://learn.microsoft.com/api/credentials/share/es-es/KendallCastroWilson-9809/849F7BB61FBA5649?sharingId=63448C838A62328B) |
+| AZ-104 — Azure Administrator Associate | 🔄 In progress |
+| DP-600 — Fabric Analytics Engineer Associate | 🔄 In progress |
 
-<!-- TODO Kendall: replace each "#" above with your real Microsoft Learn "share credential" link
-     (format: https://learn.microsoft.com/api/credentials/share/en-us/[name]/[code])
-     so each row proves the certification instead of just naming it. -->
-     
+<!-- TODO Kendall: get AZ-305's real "share credential" link from learn.microsoft.com
+     (your credentials page → AZ-305 → Share), then replace the line above. -->
+
 ---
 
 ### 🧰 Stack
@@ -96,4 +95,4 @@
 
 ### 📫 Let's connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:kcastro74@outlook.com)
+[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
