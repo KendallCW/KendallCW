@@ -48,6 +48,14 @@
   <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square" />
   <img alt="Synapse" src="https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square" />
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+  <img alt="ADLS Gen2" src="https://img.shields.io/badge/ADLS_Gen2-0078D4?style=flat-square" />
+</p>
+
+**Security & Governance**
+<p>
+  <img alt="Azure Key Vault" src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat-square" />
+  <img alt="Microsoft Purview" src="https://img.shields.io/badge/Microsoft_Purview-0078D4?style=flat-square" />
+  <img alt="Azure Monitor" src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square" />
 </p>
 
 **BI & Modeling**
