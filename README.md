@@ -34,44 +34,45 @@
 | AZ-104 — Azure Administrator Associate | 🔄 In progress |
 | DP-600 — Fabric Analytics Engineer Associate | 🔄 In progress |
 
-<!-- TODO Kendall: get AZ-305's real "share credential" link from learn.microsoft.com
-     (your credentials page → AZ-305 → Share), then replace the line above. -->
-
 ---
 
 ### 🧰 Stack
 
 **Cloud & Data Platform**
 <p>
-  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square" />
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square" />
   <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square" />
   <img alt="Synapse" src="https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square" />
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
 </p>
 
 **BI & Modeling**
 <p>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img alt="DAX" src="https://img.shields.io/badge/DAX-FF6C37?style=flat-square" />
 </p>
 
 **Languages & Processing**
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 </p>
 
 **AI / GenAI**
 <p>
-  <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square" />
+  <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 **Tooling**
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Bicep" src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square" />
 </p>
 
 ---
