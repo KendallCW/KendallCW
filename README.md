@@ -43,8 +43,8 @@
 
 **Cloud & Data Platform**
 <p>
+  <img alt="Azure icon" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" height="20" />
   <img alt="Azure badge" src="https://img.shields.io/badge/Microsoft_Azure-0080fe?style=flat-square&logo=microsoftazure&logoColor=white" height="20" />
-<img alt="Azure icon" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-azure.svg" height="20" />
   <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square" />
   <img alt="Azure Data Factory" src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square" />
   <img alt="Synapse" src="https://img.shields.io/badge/Synapse_Analytics-0078D4?style=flat-square" />
