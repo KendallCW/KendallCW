@@ -106,10 +106,11 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🔷 **[ADF + Fabric Ingestion Pipeline](#)** *(coming soon)* | End-to-end ingestion pipeline: raw data → Azure Data Factory → Fabric Lakehouse → curated model, with incremental loads and error handling | Azure Data Factory · Microsoft Fabric · Python |
-| 📊 **[Power BI Sales Analysis](#)** *(coming soon)* | Data modeling, DAX measures, and a dashboard built end-to-end to answer a specific business question | Power BI · DAX · SQL |
-| 🤖 **[GenAI on Azure](#)** *(coming soon)* | Applied use of Azure OpenAI for [specific use case — document Q&A / data summarization / etc.] | Azure OpenAI · Python |
-| ☁️ **[Cloud Infrastructure as Code](#)** *(coming soon)* | Provisioning Azure resources (storage, ADF, networking) with Bicep/Terraform instead of clicking through the portal | Bicep · Azure CLI |
+| 🔷 **[Fabric Medallion Pipeline + Power BI](#)** *(coming soon)* | Public API → Azure Data Factory ingestion → ADLS Gen2 (bronze) → Fabric Lakehouse curation (silver/gold) → semantic model → Power BI report | Azure Data Factory · Microsoft Fabric · ADLS Gen2 · Power BI · DAX · Key Vault |
+| ⚡ **[Databricks + PySpark + dbt + Airflow Pipeline](#)** *(coming soon)* | Large public dataset processed at scale with PySpark on Databricks, modeled with dbt, orchestrated end-to-end with Airflow | Databricks · PySpark · Delta Lake · dbt · Apache Airflow |
+| 🤖 **[GenAI Data Assistant on Azure](#)** *(coming soon)* | Natural-language Q&A over curated lakehouse data using Azure OpenAI — ask a question, get a real query and a generated answer | Azure OpenAI · Python |
+| ☁️ **[Cloud Infrastructure as Code](#)** *(coming soon)* | Provisioning the Azure environment behind these projects (Data Factory, Storage, Key Vault, Fabric capacity) with Terraform/Bicep and an Azure DevOps deployment pipeline | Terraform · Bicep · Azure DevOps · Azure Monitor |
+| 🧠 **[Data Engineering Agent with Claude Code + MCP](#)** *(coming soon)* | An agent that automates lakehouse maintenance — table documentation and data-quality checks — via Claude Code connected through an MCP server | Claude · Claude Code · MCP |
 
 <!-- Add rows here as new projects ship. Keep it to real, documented repos —
      a short table of finished work reads stronger than a long list of half-done ones. -->
