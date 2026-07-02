@@ -34,6 +34,9 @@
 | AZ-104 — Azure Administrator Associate | 🔄 In progress |
 | DP-600 — Fabric Analytics Engineer Associate | 🔄 In progress |
 
+<!-- TODO Kendall: get AZ-305's real "share credential" link from learn.microsoft.com
+     (your credentials page → AZ-305 → Share), then replace the line above. -->
+
 ---
 
 ### 🧰 Stack
@@ -64,6 +67,16 @@
 **AI / GenAI**
 <p>
   <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" />
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-D97757?style=flat-square" />
+</p>
+
+**Data Engineering & Orchestration**
+<p>
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square" />
 </p>
 
 **Tooling**
@@ -73,6 +86,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Bicep" src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square" />
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
 </p>
 
 ---
