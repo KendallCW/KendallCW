@@ -78,7 +78,7 @@
 
 **Data Engineering & Orchestration**
 <p>
-  <img alt="Database" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="Database" src="https://img.shields.io/badge/Database-FF694B?style=flat-square&logo=supabase&logoColor=white" />
   <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
   <img alt="Delta Lake" src="https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square" />
 </p>
