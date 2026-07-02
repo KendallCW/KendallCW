@@ -75,8 +75,8 @@
 **AI / GenAI**
 <p>
   <img alt="Azure OpenAI" src="https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white" />
   <img alt="MCP" src="https://img.shields.io/badge/MCP-D97757?style=flat-square" />
 </p>
 
