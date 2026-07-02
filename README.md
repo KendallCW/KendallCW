@@ -114,4 +114,4 @@
 
 ### 📫 Let's connect
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/kendallcw-job/)) · [Email](mailto:kcastro74@outlook.com)
