@@ -106,7 +106,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🔷 **[Fabric Medallion Pipeline + Power BI](#)** *(coming soon)* | Public API → Azure Data Factory ingestion → ADLS Gen2 (bronze) → Fabric Lakehouse curation (silver/gold) → semantic model → Power BI report | Azure Data Factory · Microsoft Fabric · ADLS Gen2 · Power BI · DAX · Key Vault |
+| ✅ **[Fabric Medallion Pipeline + Power BI](https://github.com/KendallCW/fabric-weather-medallion-pipeline)** | 11 years of hourly weather data (5 cities) through a full medallion pipeline: Azure Data Factory ingestion → ADLS Gen2 (bronze) → PySpark/Delta curation (silver/gold, with a lookahead-bias bug caught and fixed in review) → Power BI semantic model and dashboard | Azure Data Factory · ADLS Gen2 · PySpark · Delta Lake · Power BI · DAX · Key Vault |
 | ⚡ **[Databricks + PySpark + dbt + Airflow Pipeline](#)** *(coming soon)* | Large public dataset processed at scale with PySpark on Databricks, modeled with dbt, orchestrated end-to-end with Airflow | Databricks · PySpark · Delta Lake · dbt · Apache Airflow |
 | 🤖 **[GenAI Data Assistant on Azure](#)** *(coming soon)* | Natural-language Q&A over curated lakehouse data using Azure OpenAI — ask a question, get a real query and a generated answer | Azure OpenAI · Python |
 | ☁️ **[Cloud Infrastructure as Code](#)** *(coming soon)* | Provisioning the Azure environment behind these projects (Data Factory, Storage, Key Vault, Fabric capacity) with Terraform/Bicep and an Azure DevOps deployment pipeline | Terraform · Bicep · Azure DevOps · Azure Monitor |
