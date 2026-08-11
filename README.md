@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I'm a Business/Data Analyst (Abbott, P&G) moving into cloud data engineering.<br/>
+  I'm a Business/Data Analyst who likes cloud/data/IA engineering.<br/>
   Right now that means building real pipelines on <strong>Azure Data Factory + Microsoft Fabric</strong>,
   sharpening BI/data modeling with <strong>Power BI + DAX</strong>, and starting to explore applied
   <strong>GenAI on Azure</strong> — one of the upcoming projects in this profile will document that in progress.
